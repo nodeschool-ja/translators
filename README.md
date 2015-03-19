@@ -1,0 +1,3 @@
+# translators
+
+nodeschoolのワークショップの翻訳に関して話し合うためのレポジトリー
