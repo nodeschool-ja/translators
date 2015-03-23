@@ -9,8 +9,9 @@ nodeschoolのワークショップの翻訳に関して話し合うためのレ�
 
 ### Core/基本
 
-- [learnyounode](https://github.com/maxogden/learnyounode-jp)
+- [learnyounode](https://github.com/rvagg/learnyounode)
 - [levelmeup](https://github.com/maxogden/levelmeup-jp)
+- [javascripting](https://github.com/ledsun/javascripting)
 
 ### 選択科目
 
