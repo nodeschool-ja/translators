@@ -12,6 +12,7 @@ nodeschoolのワークショップの翻訳に関して話し合うためのレ�
 - [learnyounode](https://github.com/rvagg/learnyounode)
 - [levelmeup](https://github.com/maxogden/levelmeup-jp)
 - [javascripting](https://github.com/ledsun/javascripting)
+- [how-to-npm-jp](https://github.com/nodeschool-jp/how-to-npm-jp)
 
 ### 選択科目
 
