@@ -9,7 +9,7 @@ nodeschoolのワークショップの翻訳に関して話し合うためのレ�
 
 ### Core/基本
 
-- [learnyounode](https://github.com/rvagg/learnyounode)
+- [learnyounode](https://github.com/workshopper/learnyounode)
 - [levelmeup](https://github.com/maxogden/levelmeup-jp)
 - [javascripting](https://github.com/ledsun/javascripting)
 - [how-to-npm-jp](https://github.com/nodeschool-jp/how-to-npm-jp)
